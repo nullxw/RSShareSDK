@@ -13,7 +13,6 @@
 #import <TencentOpenAPI/TencentOAuth.h>
 #import "WeiboSDK.h"
 #import <TencentOpenAPI/QQApiInterface.h>
-#import <TencentOpenAPI/TencentApiInterface.h>
 #import "RSShareHttp.h"
 #import "RSShareUser.h"
 #import "RSSharePopupController.h"

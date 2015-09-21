@@ -79,5 +79,35 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>mqzone</string>
+        <string>mqq</string>
+        <string>mqqapi</string>
+        <string>wtloginmqq2</string>
+        <string>mqqopensdkapiV3</string>
+        <string>mqqopensdkapiV2</string>
+        <string>mqqOpensdkSSoLogin</string>
+        <string>mqzoneopensdkapiV2</string>
+        <string>mqzoneopensdkapi19</string>
+        <string>mqzoneopensdkapi</string>
+        <string>mqzoneopensdk</string>
+        <string>wechat</string>
+        <string>weixin</string>
+        <string>tencentweiboSdkv2</string>
+        <string>TencentWeibo</string>
+        <string>weibosdk2.5</string>
+        <string>weibosdk</string>
+        <string>weibo</string>
+        <string>sinaweibohdsso</string>
+        <string>sinaweibosso</string>
+        <string>mqqwpa</string>
+    </array>
+
 </dict>
 </plist>
